@@ -213,7 +213,7 @@ span {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  margin-top: -300px;
+  margin-top: -310px;
 }
 
 .shop-section h2 {
@@ -225,7 +225,7 @@ span {
   height: 375px;
   width: 23%;
   padding: 20px 0px 15px;
-  margin-top: 15px;
+  margin-top: 25px;
 }
 
 .box-content {
@@ -321,4 +321,38 @@ span {
 
 .item-name-bottom {
   padding-left: 1rem;
+}
+
+.horizontal-box {
+  height: 280px;
+  width: 96.7%;
+  padding: 0px 0px;
+  margin-top: 25px;
+  background-color: white;
+}
+
+.horizontal-box-content {
+  padding: 20px 15px;
+}
+
+.hori-box-imgs {
+  display: flex;
+  justify-content: center;
+  margin-left: 3rem;
+  margin-top: 0.7rem;
+}
+
+.hori-box-img {
+  margin-right: 45px;
+}
+
+.hori-box-2-imgs {
+  display: flex;
+  justify-content: center;
+  margin-left: 1rem;
+  margin-top: 0.7rem;
+}
+
+.hori-box-2-img {
+  margin-right: 10px;
 }
