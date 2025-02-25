@@ -1,20 +1,26 @@
 # 🛒 Amazon Clone
 
-A responsive Amazon Clone built with **HTML, CSS** that replicates the UI of Amazon’s homepage. This project demonstrates frontend development skills, including layout design, responsiveness, and styling.
+A Amazon Clone built with **HTML, CSS** that replicates the UI of Amazon’s homepage. This project demonstrates frontend development skills, including layout design, and styling.
+
+![image](https://github.com/user-attachments/assets/aa4342e9-5ab9-46ab-bf72-cd0021cb7a73)
+
 
 ## 🚀 Live Demo
 🔗 [Amazon Clone](https://amazon-clone-by-parthpanchal.vercel.app/)
 
 ## 📌 Features
-✅ Responsive Amazon-like UI  
+✅ Amazon-like UI  
 ✅ Navigation bar with Amazon logo & search box  
 ✅ Product categories & banner section  
-✅ Footer section with links  
-✅ Fully responsive (Mobile-Friendly)  
+✅ Footer section 
 
 ## 🛠 Tech Stack
 - **HTML** - Structure of the website  
-- **CSS** - Styling & layout design  
+- **CSS** - Styling & layout design
+
+## :star: Give A Star
+
+You can also give this repository a star to show more people and they can use this repository.
 
 ## 📂 Installation & Setup
 1. **Clone the repository**
@@ -27,18 +33,26 @@ A responsive Amazon Clone built with **HTML, CSS** that replicates the UI of Ama
    ```
 3. **Open `index.html` in your browser**
 
-## 🎯 How to Contribute
-Feel free to improve the UI, add animations, or convert this into a **React.js project!**
+## 🏠 Built With:
 
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -m "Added a new feature"`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Create a Pull Request
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,vercel)](https://skillicons.dev)
 
-## 📧 Contact
+## 🙋‍♂️ Connect With Me
+
+[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/parth2367)&nbsp;
+[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/parth-panchal7/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/_parth.panchal/)&nbsp;
+
 For any queries, reach out via GitHub or LinkedIn!
 
----
+## 🗒️ Authors
 
-### ⭐ If you found this helpful, consider giving a **star** to the repo!
+- Parth Panchal
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <a href="https://github.com/parth2367">
+      <img src="https://skillicons.dev/icons?i=github" />
+    </a>
+  </a>
+</p>
