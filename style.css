@@ -356,3 +356,141 @@ span {
 .hori-box-2-img {
   margin-right: 10px;
 }
+
+footer {
+  margin-top: 20px;
+}
+
+.foot-panel1 {
+  background-color: #37475a;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.9rem;
+}
+
+.foot-panel1 a{
+  text-decoration: none;
+  color: white;
+}
+
+.foot-panel2 {
+  background-color: #222f3d;
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  height: 400px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+ul {
+  margin-top: 30px;
+  width: 150px;
+}
+
+ul p {
+  font-size: 1.15rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+ul a {
+  color: #dddddd;
+  display: block;
+  font-size: 1rem;
+  margin-top: 10px;
+}
+
+.foot-panel3 {
+  background-color: #222f3d;
+  color: #dddddd;
+  border-top: 1px solid #3a4553;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.foot-logo {
+  background-image: url("/Images/amazon_logo.png");
+  background-size: cover;
+  height: 50%;
+  width: 100px;
+}
+
+.foot-lang {
+  margin-left: 75px;
+  border: 1px solid #848688;
+  border-radius: 3px;
+  height: 30px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  color: #cccccc;
+}
+
+.foot-lang i {
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 15px;
+}
+
+.foot-currency {
+  margin-left: 10px;
+  border: 1px solid #848688;
+  border-radius: 3px;
+  height: 30px;
+  width: 170px;
+  display: flex;
+  align-items: center;
+  color: #cccccc;
+}
+
+.foot-currency i {
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 15px;
+}
+
+.foot-country {
+  margin-left: 10px;
+  border: 1px solid #848688;
+  border-radius: 3px;
+  height: 30px;
+  width: 150px;
+  display: flex;
+  align-items: center;
+  color: #cccccc;
+}
+
+.foot-country-logo {
+  height: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.foot-panel4 {
+  background-color: #131a22;
+  height: 77px;
+  color: #dddddd;
+  padding: 10px 0px 0px;
+  align-items: center;
+  justify-content: center;
+}
+
+.foot-pages{
+  text-align: center;
+}
+
+.foot-pages a{
+  font-size: 0.85rem;
+  padding: 7px;
+}
+
+.foot-copyrights{
+  font-size: 0.85rem;
+  text-align: center;
+  padding-top: 7px;
+}
