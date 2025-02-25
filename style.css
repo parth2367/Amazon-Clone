@@ -22,10 +22,7 @@ body {
   width: 115px;
 }
 
-.logo {
-  background-image: url("/Images/amazon_logo.png");
-  background-size: cover;
-  height: 100%;
+.logo img {
   width: 100%;
 }
 
@@ -110,9 +107,8 @@ body {
   align-items: center;
   align-content: center;
 }
-.flag {
-  background-image: url("/Images/american-flag.png");
-  background-size: cover;
+
+.flag img {
   height: 20px;
   width: 21px;
 }
@@ -370,7 +366,7 @@ footer {
   font-size: 0.9rem;
 }
 
-.foot-panel1 a{
+.foot-panel1 a {
   text-decoration: none;
   color: white;
 }
@@ -413,9 +409,8 @@ ul a {
   align-items: center;
 }
 
-.foot-logo {
-  background-image: url("/Images/amazon_logo.png");
-  background-size: cover;
+.foot-logo img {
+  margin-top: 15px;
   height: 50%;
   width: 100px;
 }
@@ -480,16 +475,16 @@ ul a {
   justify-content: center;
 }
 
-.foot-pages{
+.foot-pages {
   text-align: center;
 }
 
-.foot-pages a{
+.foot-pages a {
   font-size: 0.85rem;
   padding: 7px;
 }
 
-.foot-copyrights{
+.foot-copyrights {
   font-size: 0.85rem;
   text-align: center;
   padding-top: 7px;
